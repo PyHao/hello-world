@@ -1,0 +1,1 @@
+Index.PACKAGES = {"com" : [], "com.scala" : [], "com.scala.hao" : [{"object" : "com\/scala\/hao\/P13Comment$.html", "name" : "com.scala.hao.P13Comment"}]};
